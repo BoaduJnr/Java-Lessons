@@ -10,8 +10,8 @@ Welcome to our Java Lessons Learned Repository! This repository is a comprehensi
 - [Building a REST API with Spring Boot](#building-a-rest-api-with-spring-boot)
 - [Quiz Game](#quiz-game)
 - [Rock Paper Scissors Game](#rock-paper-scissors-game)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Fizzbuzz CLI App](#fizzbuzz-cli-app)
+- [Mortgage Calculator CLI App](#mortgage-calculator-app-cli)
 - [License](#license)
 
 ## Introduction
@@ -38,7 +38,6 @@ Spring Boot makes it easy to create stand-alone, production-grade Spring-based A
 
 - **Setup**: Setting up a Spring Boot project.
 - **Developing RESTful Services**: Creating simple RESTful services with Spring Boot.
-- **Testing**: Basic testing principles for REST APIs.
 
 ## Quiz Game
 
@@ -52,6 +51,16 @@ A simple Java-based quiz game demonstrating:
 An implementation of the classic rock-paper-scissors game showcasing:
 
 - **Decision Structures**: Utilizing decision-making constructs in Java.
+
+## FizzBuzz CLI App
+ A simple program that prints numbers from n to 1, but for multiples of three prints "Fizz" instead of the number, and for the multiples of five prints "Buzz". For numbers which are multiples of both three and five, it prints "FizzBuzz".
+- **Testing**: Basic testing principles methods.
+
+## Mortgage Calculator CLI App
+ An application that calculates the monthly payments for a fixed-rate mortgage over a given loan term, demonstrating basic Java arithmetic operations and input handling.
+- **Testing**: Basic testing principles for methods.
+
+
 
 ## Getting Started
 
